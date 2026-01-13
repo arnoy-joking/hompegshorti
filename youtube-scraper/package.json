@@ -1,0 +1,7 @@
+{
+  "name": "youtube-shorts-scraper",
+  "version": "1.0.0",
+  "description": "Scrape YouTube shorts via Netlify Functions",
+  "main": "index.js",
+  "dependencies": {}
+}
